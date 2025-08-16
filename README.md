@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohsen</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Egypt</h3>
 
+- 📫 How to reach me **aahmed.mmohsen22@outlook.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Ul35gx9BDGyCqGEhsbym0y9EE5KjSPNZ/view?usp=drive_link](https://drive.google.com/file/d/1Ul35gx9BDGyCqGEhsbym0y9EE5KjSPNZ/view?usp=drive_link)
+
+- ⚡ Fun fact **I think i am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
